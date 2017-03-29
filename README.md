@@ -14,9 +14,11 @@ OOP is designated to make complex project more manageable
 - Slower and unnecessary for smaller project
 
 OOP
-- Encapsulation (Class, access, modifier)
-- Inheritance
+- Encapsulation (Class, access, modifier). [example](/examples/oop/Vehicle.java)
+- Inheritance [example](/examples/oop/Truck.java)
 - Polymorphism (Abstract vs Interface)
+  - Abstract [example](/examples/oop/AbstractCar.java)
+  - Interface [example](/examples/oop/IFlyeable.java)
   - Composition over Inheritance
   - Coding to Interface
   - Dependency Injection
