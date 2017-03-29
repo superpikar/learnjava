@@ -1,5 +1,3 @@
-package oop;
-
 class SportCar extends AbstractCar {
 
 	public SportCar(String name) {

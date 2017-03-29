@@ -1,5 +1,3 @@
-package oop;
-
 class SuperFutureCar extends AbstractCar implements IFlyable {
 
 	public SuperFutureCar(String name) {

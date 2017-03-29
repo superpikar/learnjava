@@ -1,9 +1,10 @@
-package oop;
-
-abstract class AbstractCar {
+/**
+ * sample of encapsulation
+ */
+class Vehicle {
 	protected String name;
 	
-	public AbstractCar(String name){
+	public Vehicle(String name){
 		this.name = name;
 	}
 	
@@ -17,6 +18,4 @@ abstract class AbstractCar {
 		System.out.println("----------------");
 		System.out.println(printTheName());
 	}
-	
-	public abstract void runOnTheStreet();
 }

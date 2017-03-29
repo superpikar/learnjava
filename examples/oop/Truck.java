@@ -1,5 +1,3 @@
-package oop;
-
 class Truck extends Vehicle {
 	private int numberOfWheels;
 	

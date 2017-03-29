@@ -1,5 +1,3 @@
-package oop;
-
 public class MainClass {
 	public static void main(String[] args){
 		Vehicle v = new Vehicle("vehicle");

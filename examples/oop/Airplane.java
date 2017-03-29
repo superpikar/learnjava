@@ -1,5 +1,3 @@
-package oop;
-
 class Airplane implements IFlyable {
 	private String name;
 	
