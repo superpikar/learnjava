@@ -1,10 +1,9 @@
-/**
- * sample of encapsulation
- */
-class Vehicle {
+package abstractt;
+
+public abstract class AbstractCar {
 	protected String name;
 	
-	public Vehicle(String name){
+	public AbstractCar(String name){
 		this.name = name;
 	}
 	
@@ -15,7 +14,8 @@ class Vehicle {
 	
 	// public function, accesible to other class
 	public void printName(){
-		System.out.println("----------------");
 		System.out.println(printTheName());
 	}
+	
+	public abstract void runOnTheStreet();
 }

@@ -18,7 +18,7 @@ OOP
 - Inheritance [example](/examples/oop/Truck.java)
 - Polymorphism (Abstract vs Interface)
   - Abstract [example](/examples/oop/AbstractCar.java)
-  - Interface [example](/examples/oop/IFlyeable.java)
+  - Interface [example](/examples/oop/IFlyable.java)
   - Composition over Inheritance
   - Coding to Interface
   - Dependency Injection

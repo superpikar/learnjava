@@ -1,4 +1,6 @@
-class SportCar extends AbstractCar {
+package abstractt;
+
+public class SportCar extends AbstractCar {
 
 	public SportCar(String name) {
 		super(name);
@@ -8,5 +10,4 @@ class SportCar extends AbstractCar {
 	public void runOnTheStreet() {
 		System.out.println(name+" is running on the street!");
 	}
-
 }

@@ -1,4 +1,9 @@
-class SuperFutureCar extends AbstractCar implements IFlyable {
+package inheritanceinterface;
+
+import interfacee.IFlyable;
+import abstractt.AbstractCar;
+
+public class SuperFutureCar extends AbstractCar implements IFlyable {
 
 	public SuperFutureCar(String name) {
 		super(name);

@@ -1,4 +1,8 @@
-class Truck extends Vehicle {
+package inheritance;
+
+import encapsulation.Vehicle;
+
+public class Truck extends Vehicle {
 	private int numberOfWheels;
 	
 	public Truck(String name, int numberOfWheels) {
@@ -7,8 +11,6 @@ class Truck extends Vehicle {
 	}
 	
 	public void printName(){
-		System.out.println("----------------");
 		System.out.println("vehicle name: "+name+", have "+numberOfWheels+" legs");
 	}
-	
 }
