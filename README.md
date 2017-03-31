@@ -14,14 +14,14 @@ OOP is designated to make complex project more manageable
 - Slower and unnecessary for smaller project
 
 OOP
-- Encapsulation (Class, access, modifier). [example](/examples/oop/Vehicle.java)
-- Inheritance [example](/examples/oop/Truck.java)
+- Encapsulation (Class, access, modifier). [example](/examples/oop/encapsulation/Vehicle.java)
+- Inheritance [example](/examples/oop/inheritance/Truck.java)
 - Polymorphism (Abstract vs Interface)
-  - Abstract [example](/examples/oop/AbstractCar.java)
-  - Interface [example](/examples/oop/IFlyable.java)
-  - Composition over Inheritance
-  - Coding to Interface
-  - Dependency Injection
+  - Abstract [example](/examples/oop/abstractt/SportCar.java)
+  - Interface [example](/examples/oop/interfacee/AirPlane.java)
+  - Composition over Inheritance. comparing the source code of [inheritance](/examples/oop/inheritance/KiaCityCar.java) vs [composition](/examples/oop/compositionoverinheritance/HyundaiCityCar.java)
+  - Coding to Interface [example](/examples/oop/compositionoverinheritance/HyundaiCityCar.java)
+  - Dependency Injection [example](/examples/oop/dependencyinjection)
   - Test Driven Development
 
 ## Good Coding Practice
