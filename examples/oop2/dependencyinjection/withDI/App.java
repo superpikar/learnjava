@@ -1,4 +1,4 @@
-package dependencyinjection.withtDI;
+package dependencyinjection.withDI;
 
 public class App {
 	public static void main(String[] args) {

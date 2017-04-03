@@ -1,4 +1,4 @@
-package dependencyinjection.withtDI;
+package dependencyinjection.withDI;
 
 public class SMSServiceInjectorImpl implements MessageServiceInjector {
 

@@ -21,8 +21,8 @@ OOP
   - Interface [example](/examples/oop/interfacee/AirPlane.java)
   - Composition over Inheritance. comparing the source code of [inheritance](/examples/oop/inheritance/KiaCityCar.java) vs [composition](/examples/oop/compositionoverinheritance/HyundaiCityCar.java)
   - Coding to Interface [example](/examples/oop/compositionoverinheritance/HyundaiCityCar.java)
-  - Dependency Injection [example](/examples/oop/dependencyinjection)
-  - Test Driven Development
+  - [Dependency Injection](/docs/oop-dependencyinjection) [example](/examples/oop/dependencyinjection)
+  - [Test Driven Development](/docs/oop-tdd)
 
 ## Good Coding Practice
 - Single responsibility : A class/method should have only one purpose.

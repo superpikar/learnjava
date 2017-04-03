@@ -1,4 +1,4 @@
-package dependencyinjection.withtDI;
+package dependencyinjection.withDI;
 
 public class MyDIApplication implements Consumer {
 	
